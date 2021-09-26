@@ -1,0 +1,26 @@
+.weapon-container{
+    border: 2px solid darkred;
+    text-align: center;
+    background-image: linear-gradient(black,darkgrey);
+}
+.muted-text{
+    font-weight: 400;
+}
+.weapon-details{
+    color: white;
+}
+.weapon-container img{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    border: 2px solid darkred;
+    background-color: white;
+}
+
+.add-button{
+    padding: 7px 10px;
+    border: 2px solid black;
+    font-size: 1em;
+    font-weight: 600;
+    margin-bottom: 10px;
+}

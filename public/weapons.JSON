@@ -1,0 +1,122 @@
+[
+    {
+        "name": "AWM",
+        "type": "Sniper rifle",
+        "img": "https://5.imimg.com/data5/NF/ZX/JL/SELLER-79895683/pubg-awm-sniper-rifle-toy-gun-500x500.jpg",
+        "origin": "United Kingdom",
+        "mass": 6.9,
+        "price": 50000
+    },
+    {
+        "name": "M416",
+        "type": "Assault rifle",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6wQUDYzKqf3JT5tDS9FsKOa8CvfMjAkS2J9JdNE67EcPSVe2B3kaDLN-xGq3cMTfAs0M&usqp=CAU",
+        "origin": "Germany",
+        "mass": 3.85,
+        "price": 36000
+    },
+    {
+        "name": "M24",
+        "type": "Sniper rifle",
+        "img": "https://topicimages.mrowl.com/large/prithvi_c/pubgmobile/weapons/m2410_1.jpg",
+        "origin": "United States",
+        "mass": 5.4,
+        "price": 48000
+    },
+    {
+        "name": "SCAR-L",
+        "type": "Assault rifle ",
+        "img": "https://www.citypng.com/public/uploads/preview/-21602631241xjw4hzrvk9.png",
+        "origin": "Belgium",
+        "mass": 3.04,
+        "price": 20000
+    },
+    {
+        "name": "DP-28",
+        "origin": "Soviet Union",
+        "type": "Light machine gun",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0dan4gHeIYCzMzAoXAAtiZGCZS_gJsSWhXee8SMxG1UFXlszVhVdpO9VxxTDZO8BOS_w&usqp=CAU",
+        "mass": 9.12,
+        "price": 30000
+    },
+    {
+        "name": "M249",
+        "type": "Machine gun",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0hqHrAjPU7p9gtjFEXCEJxwtIsXTzj8OFcSQusbUHrsR0pGpSxfKFCDC8gJfnlxreoXc&usqp=CAU",
+        "origin": "Belgium",
+        "mass": 7.5,
+        "price": 45000
+    },
+    {
+        "name": "AKM",
+        "type": "Assault rifle",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0oftQC8qFUF-zOI5tYQ4xcm9hCNCJY9rzd6Cj0GTwUZJlX0KWN8nprn-O-KJXAXa45ns&usqp=CAU",
+        "origin": "Soviet Union",
+        "mass": 3.3,
+        "price": 19000
+    },
+    {
+        "name": "SLR",
+        "type": "Self Loading Rifle",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiECYM-Irr0QGzMl4jMINF6Jiwzp989sgtlg&usqp=CAU",
+        "origin": "Brazil",
+        "mass": 3.1,
+        "price": 12000
+    },
+    {
+        "name": "Winchester",
+        "type": "Lever-action hunting rifle",
+        "img": "https://dygtyjqp7pi0m.cloudfront.net/i/30376/26476017_1.jpg?v=8D44F91AB271500",
+        "origin": "United States",
+        "mass": 6.8,
+        "price": 18000
+    },
+    {
+        "name": "Vector",
+        "type": "Submachine gun",
+        "img": "https://static5.gunfire.com/eng_pl_KRISS-Vector-Submachine-Gun-Replica-Black-1152217335_18.jpg",
+        "origin": "United States",
+        "mass": 6,
+        "price": 10000
+    },
+    {
+        "name": "Kar98k",
+        "type": "Bolt-action rifle",
+        "img": "https://i.pinimg.com/originals/91/25/51/912551e4f9fdea1eba67ef001f6d5311.png",
+        "origin": "Nazi Germany",
+        "mass": 4.1,
+        "price": 29000
+    },
+    {
+        "name": "Groza",
+        "type": "Bullpup assault rifle",
+        "img": "https://en-academic.com/pictures/enwiki/71/GrozaOC14.svg",
+        "origin": "Russia",
+        "mass": 3.97,
+        "price": 45000
+    },
+    {
+        "name": "UMP45",
+        "type": "Submachine gun",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTljjyXRBRlShc01xEoA8S7rdRMp4uUQ9gonHq0tNJ3QoWd_zZvPEtaYzgWzMdbXlOSrCk&usqp=CAU",
+        "origin": "Germany",
+        "mass": 2.3,
+        "price": 18000
+    },
+    {
+        "name": "S12K",
+        "type": "Shotgun",
+        "img": "https://i.pinimg.com/originals/2e/d2/26/2ed226182ca04fd61a14cf37c23ee4ca.png",
+        "origin": "Netherland",
+        "mass": 2.8,
+        "price": 13000
+    },
+    {
+        "name": "Tommy Gun",
+        "type": "Submachine gun",
+        "img": "https://graphicriver.img.customer.envatousercontent.com/files/336145583/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=2ee65307e86fb0fa7e527d78fea5dd36",
+        "origin": "United States",
+        "mass": 4.9,
+        "price": 16000
+    }
+]
